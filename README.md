@@ -44,7 +44,7 @@ Each row represents a single product with its complete attributes.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Exploratory Data Analysis **
+**Exploratory Data Analysis**
 
 <img width="478" height="286" alt="image" src="https://github.com/user-attachments/assets/4e38d497-54d9-4758-b6d6-7ef0d656b8b8" />
 
